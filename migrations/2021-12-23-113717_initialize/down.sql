@@ -1,0 +1,9 @@
+DROP TABLE `categories`;
+DROP TABLE `list_items`;
+DROP TABLE `lists`;
+DROP TABLE `logs`;
+DROP TABLE `packages`;
+DROP TABLE `ratings`;
+DROP TABLE `stock_alerts`;
+DROP TABLE `tags`;
+DROP TABLE `users`;
